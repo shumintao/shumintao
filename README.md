@@ -8,6 +8,7 @@ I'm SHUMIN, Fullstack developer from Beijing, China, currently living in <b>Beij
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumintao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
