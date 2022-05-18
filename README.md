@@ -4,17 +4,6 @@
 I'm SHUMIN, Fullstack developer from Beijing, China, currently living in <b>ChangPing , Beijing</b>.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumintao&show_icons=true&theme=radical)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumintao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
 
 
 
